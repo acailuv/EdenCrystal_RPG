@@ -1,10 +1,15 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Lighthaven Keep","order":1,"parentId":0,"scrollX":1576,"scrollY":962},
-{"id":2,"expanded":true,"name":"Ancient Forest","order":2,"parentId":0,"scrollX":1039.3333333333333,"scrollY":718.6666666666666},
-{"id":3,"expanded":false,"name":"Darkshore Monolith","order":4,"parentId":0,"scrollX":1039.3333333333333,"scrollY":1038.6666666666667},
-{"id":4,"expanded":false,"name":"Fallen Empire","order":5,"parentId":0,"scrollX":1576,"scrollY":962},
-{"id":5,"expanded":false,"name":"Character Creation","order":6,"parentId":0,"scrollX":1576,"scrollY":962},
-{"id":6,"expanded":false,"name":"Elder Tent","order":3,"parentId":2,"scrollX":1050,"scrollY":641.3333333333334},
-{"id":7,"expanded":false,"name":"Lighthaven Outskirts","order":7,"parentId":0,"scrollX":1576,"scrollY":962}
+{"id":1,"expanded":true,"name":"Lighthaven Keep","order":1,"parentId":0,"scrollX":1576,"scrollY":962},
+{"id":2,"expanded":false,"name":"Ancient Forest","order":4,"parentId":0,"scrollX":1576,"scrollY":962},
+{"id":3,"expanded":true,"name":"Darkshore Monolith","order":9,"parentId":0,"scrollX":1576,"scrollY":962},
+{"id":4,"expanded":false,"name":"Fallen Empire","order":11,"parentId":0,"scrollX":1576,"scrollY":962},
+{"id":5,"expanded":false,"name":"Character Creation","order":12,"parentId":0,"scrollX":1576,"scrollY":962},
+{"id":6,"expanded":false,"name":"Elder Tent","order":5,"parentId":2,"scrollX":1576,"scrollY":962},
+{"id":7,"expanded":false,"name":"Lighthaven Outskirts","order":3,"parentId":1,"scrollX":1576,"scrollY":962},
+{"id":8,"expanded":false,"name":"Port","order":2,"parentId":1,"scrollX":1576,"scrollY":962},
+{"id":9,"expanded":false,"name":"Inn","order":6,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"Inn B1","order":7,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Inn B2","order":8,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"Darkshore Forest","order":10,"parentId":3,"scrollX":1576,"scrollY":962}
 ]
