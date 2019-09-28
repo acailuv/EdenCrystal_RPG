@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Lighthaven Keep","order":1,"parentId":0,"scrollX":1718.1818181818182,"scrollY":1049.4545454545455},
+{"id":1,"expanded":false,"name":"Lighthaven Keep","order":1,"parentId":0,"scrollX":1718.1818181818182,"scrollY":1049.4545454545455},
 {"id":2,"expanded":false,"name":"Ancient Forest","order":7,"parentId":0,"scrollX":1718.1818181818182,"scrollY":1049.4545454545455},
-{"id":3,"expanded":true,"name":"Darkshore Monolith","order":13,"parentId":0,"scrollX":1104,"scrollY":1050},
+{"id":3,"expanded":false,"name":"Darkshore Monolith","order":13,"parentId":0,"scrollX":1718.1818181818182,"scrollY":1049.4545454545455},
 {"id":4,"expanded":false,"name":"Fallen Empire","order":17,"parentId":0,"scrollX":1718.1818181818182,"scrollY":1049.4545454545455},
 {"id":5,"expanded":false,"name":"Character Creation","order":23,"parentId":0,"scrollX":1718.1818181818182,"scrollY":1049.4545454545455},
 {"id":6,"expanded":false,"name":"Elder Tent","order":8,"parentId":2,"scrollX":1576,"scrollY":962},
