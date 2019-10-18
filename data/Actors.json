@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":3,"characterName":"_Classes","classId":4,"equips":[36,52,51],"faceIndex":3,"faceName":"_Classes","traits":[],"initialLevel":32,"maxLevel":50,"name":"Player","nickname":"This is You","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Tester","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":3,"characterName":"","classId":5,"equips":[36,52,51],"faceIndex":3,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Player","nickname":"This is You","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"_Classes","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Tester","nickname":"","note":"","profile":""}
 ]
