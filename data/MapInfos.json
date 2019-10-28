@@ -34,5 +34,5 @@ null,
 {"id":32,"expanded":true,"name":"Chamber of Zero","order":32,"parentId":29,"scrollX":0,"scrollY":0},
 {"id":33,"expanded":false,"name":"Chamber of Akhnekith","order":33,"parentId":29,"scrollX":788,"scrollY":481},
 {"id":34,"expanded":true,"name":"Eden Realm 2","order":35,"parentId":35,"scrollX":787.5,"scrollY":481},
-{"id":35,"expanded":false,"name":"Eden Realm","order":34,"parentId":0,"scrollX":787.5,"scrollY":481}
+{"id":35,"expanded":false,"name":"Eden Realm","order":34,"parentId":0,"scrollX":788,"scrollY":481}
 ]
